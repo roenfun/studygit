@@ -59,5 +59,7 @@
 		</dependency>
 		<!-->modify this comments to test git<-->
 		<!-->step4 add this line on corp<-->
+		<!-->step5 create one new branch “dev”<—>
+		<!-->step6 check out to master without change on dev branch<-->
 	</dependencies>
 </project>
